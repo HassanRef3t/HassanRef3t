@@ -10,10 +10,10 @@
 
 <!-- Social Links -->
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn Profile"><img width="22" src="images/linkedin.png">   LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/YOUR-HACKERRANK" title="Facebook Profile"><img width="22" src="images/Facebook.png">   Facebook</a></code>
-  <code><a href="https://myspace.com/users/YOUR-ID" title="myspace Profile"><img width="22" src="images/Myspace.png">   myspace</a></code>
-  <code><a href="https://www.instagram.com/YOUR-INSTAGRAM" title="Instagram Profile"><img width="22" src="images/Instagram.png">   Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn Profile"><img width="22" src="images/linkedin.png">  LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/YOUR-HACKERRANK" title="Facebook Profile"><img width="22" src="images/Facebook.png">  Facebook</a></code>
+  <code><a href="https://myspace.com/users/YOUR-ID" title="myspace Profile"><img width="22" src="images/Myspace.png">  myspace</a></code>
+  <code><a href="https://www.instagram.com/YOUR-INSTAGRAM" title="Instagram Profile"><img width="22" src="images/Instagram.png">  Instagram</a></code>
 </h5>
 
 <hr>
