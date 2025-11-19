@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/YOUR-HACKERRANK" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/YOUR-ID" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/YOUR-INSTAGRAM" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
